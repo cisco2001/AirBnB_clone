@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amiassefa/AirBnB_clone/assets/hbnb_logo.png" alt="AlxBnB logo">
+  <img src="https://github.com/amiassefa/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="AlxBnB logo">
 </p>
 
 
@@ -93,5 +93,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-* **Amaled Shumeta** <[amiassefa](https://github.com/amiassefa)>
+* **Amaled Shumeta** <[Amaled](https://github.com/amiassefa)>
 * **   ** <[cisco2001](https://github.com/cisco2001)>
